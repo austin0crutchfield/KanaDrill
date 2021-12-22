@@ -11,4 +11,4 @@ Select the kana and fonts to study with and enter the corresponding romaji. Enab
 # Installation
 Choose one:
 * Download the project and build the app yourself in Android Studio
-* Download and install [kanadrill-debug.apk](kanadrill-debug.apk)
+* Download and install [kanadrill.apk](kanadrill.apk)
